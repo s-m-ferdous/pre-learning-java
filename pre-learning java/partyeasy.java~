@@ -1,0 +1,11 @@
+import java.util.Scanner;
+public class partyeasy
+{
+  public static void main(String[]args)
+  {
+   int n,x,s;
+   Scanner sc= new Scanner(System.in);
+   String u=sc.nextLine();
+   n=u.length();
+  }
+}
